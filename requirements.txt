@@ -1,0 +1,4 @@
+openai>=1.45.0
+requests>=2.31.0
+nbformat>=5.10.0
+jupyter>=1.0.0
